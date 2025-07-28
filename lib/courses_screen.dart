@@ -1,0 +1,1 @@
+// Placeholder content for courses_screen.dart

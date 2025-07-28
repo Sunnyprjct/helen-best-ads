@@ -1,0 +1,1 @@
+// Placeholder content for inquiry_form.dart
